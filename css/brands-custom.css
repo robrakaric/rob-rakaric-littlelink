@@ -8,3 +8,14 @@
   .button.button-leetcode:focus {
     filter: brightness(90%);
   }
+
+  /* Thangs */
+.button.button-thangs {
+  color: #ffffff;
+  background-color: #fdb912;
+  border: 1px solid #000000;
+}
+.button.button-thangs:hover,
+.button.button-thangs:focus {
+  filter: brightness(90%);
+}
