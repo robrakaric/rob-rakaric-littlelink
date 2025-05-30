@@ -30,3 +30,14 @@
 .button.button-modelmything:focus {
   filter: brightness(90%);
 }
+
+/* Mermaid Co */
+.button.button-mermaidco {
+  color: #ffffff;
+  background-color: #3b9775;
+  border: 1px solid #ffffff;
+}
+.button.button-mermaidco:hover,
+.button.button-mermaidco:focus {
+  filter: brightness(90%);
+}
