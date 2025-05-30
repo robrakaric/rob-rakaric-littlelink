@@ -19,3 +19,14 @@
 .button.button-thangs:focus {
   filter: brightness(90%);
 }
+
+/* Model My Thing */
+.button.button-modelmything {
+  color: #ffffff;
+  background-color: #3f04f3;
+  border: 1px solid #ffffff;
+}
+.button.button-modelmything:hover,
+.button.button-modelmything:focus {
+  filter: brightness(90%);
+}
